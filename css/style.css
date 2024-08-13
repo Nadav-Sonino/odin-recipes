@@ -3,10 +3,19 @@ body{
     background-color: antiquewhite;
 }
 h1{
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: black;
 }
 img{
-    width: 25rem;
+    width: 40rem;
+    border-radius: 0.5rem;
     height: auto;
+}
+div{
+    box-sizing: border-box;
+    background-color: #ffa52f41;
+    width: 40rem;
+    border-radius: 0.5rem;
+    padding: 0.1rem 1rem;
+    margin: 1rem 0;
 }
